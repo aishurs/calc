@@ -7,10 +7,10 @@ void main()
 	printf("Result of subtraction is=%d",res);
 }
 
-int sub(int no11,int no22)
+int sub(int no1,int no2)
 {
 	int s;
-	s=no11-no22;
+	s=no1-no2;
 	return s;
 }
 	
